@@ -10,7 +10,7 @@
 	"styles": [],
 	"packs": [],
 	"socket": true,
-	"download": "https://github.com/Reaver01/mwpm/archive/master.zip",
 	"manifest": "https://raw.githubusercontent.com/benwater12/oldMWUT/main/module.json",
-	"url": "https://github.com/reaver01/mwpm"
+	"url": "https://github.com/benwater12/oldMWUT",
+	"download": "https://github.com/benwater12/oldMWUT/archive/main.zip",
 }
